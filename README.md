@@ -114,9 +114,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your Name
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+Octavio Gabriele
+- GitHub: [@yOGabCodDev](https://github.com/OG1983)
 
 ## 🤝 Contributing
 
