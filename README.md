@@ -4,7 +4,7 @@ A sleek, responsive landing page showcasing next-generation technology solutions
 
 ![NEXT Website Preview](screenshot.png)
 
-## 🚀 Features
+🚀 Features
 
 - **Fully Responsive Design** - Optimized for desktop, tablet, and mobile devices
 - **Modern UI/UX** - Clean interface with gradient effects and smooth transitions
@@ -12,7 +12,7 @@ A sleek, responsive landing page showcasing next-generation technology solutions
 - **Service Cards** - Showcase your offerings with interactive hover effects
 - **Social Media Integration** - Ready-to-link social media icons
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - HTML5
 - CSS3 (Flexbox & Grid)
