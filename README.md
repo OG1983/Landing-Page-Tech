@@ -32,11 +32,11 @@ next-website/
 
 ## 🎨 Color Palette
 
-- **Primary Gradient**: `#667eea` → `#764ba2`
-- **Secondary Gradient**: `#ff0844` → `#ffb199`
-- **Accent Gradient**: `#f093fb` → `#f5576c`
-- **Background**: `#141414`
-- **Text**: `#ffffff`
+- Primary Gradient: `#667eea` → `#764ba2`
+- Secondary Gradient: `#ff0844` → `#ffb199`
+- Accent Gradient: `#f093fb` → `#f5576c`
+- Background: `#141414`
+- Text: `#ffffff`
 
 ## 🚀 Getting Started
 
