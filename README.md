@@ -89,12 +89,12 @@ Or simply drag and drop the `index.html` file into your browser.
 - Call-to-action button with hover animations
 - Responsive grid layout
 
-### Services Section
+Services Section
 - Interactive card design with hover effects
 - Dual service showcase
 - Smooth transform animations
 
-### Footer
+Footer
 - Comprehensive link sections
 - Social media integration
 - Copyright information
