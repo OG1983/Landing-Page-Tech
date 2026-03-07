@@ -103,9 +103,9 @@ Footer
 
 To customize the website for your needs:
 
-1. **Update Content**: Modify text in `index.html`
-2. **Change Colors**: Edit CSS gradient values in the `<style>` section
-3. **Add Images**: Replace `images/pic1.svg` with your own graphics
+1. Update Content: Modify text in `index.html`
+2. Change Colors: Edit CSS gradient values in the `<style>` section
+3. Add Images: Replace `images/pic1.svg` with your own graphics
 4. **Update Links**: Change href values to point to your actual pages
 
 ## 📄 License
