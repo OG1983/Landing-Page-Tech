@@ -108,7 +108,7 @@ To customize the website for your needs:
 3. Add Images: Replace `images/pic1.svg` with your own graphics
 4. **Update Links**: Change href values to point to your actual pages
 
-## 📄 License
+📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
