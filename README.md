@@ -30,7 +30,7 @@ next-website/
 └── README.md           # Project documentation
 ```
 
-## 🎨 Color Palette
+🎨 Color Palette
 
 - Primary Gradient: `#667eea` → `#764ba2`
 - Secondary Gradient: `#ff0844` → `#ffb199`
