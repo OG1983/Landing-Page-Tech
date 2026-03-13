@@ -20,7 +20,7 @@ A sleek, responsive landing page showcasing next-generation technology solutions
 - Font Awesome Icons
 - Google Fonts (Kumbh Sans)
 
-## 📁 Project Structure
+📁 Project Structure
 ```
 next-website/
 │
