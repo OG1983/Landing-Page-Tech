@@ -6,8 +6,8 @@ A sleek, responsive landing page showcasing next-generation technology solutions
 
 🚀 Features
 
-- Fully Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- Modern UI/UX** - Clean interface with gradient effects and smooth transitions
+- Fully Responsive Design - Optimized for desktop, tablet, and mobile devices
+- Modern UI/UX - Clean interface with gradient effects and smooth transitions
 - Mobile-First Navigation** - Hamburger menu for seamless mobile experience
 - Service Cards** - Showcase your offerings with interactive hover effects
 - Social Media Integration** - Ready-to-link social media icons
