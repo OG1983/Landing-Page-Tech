@@ -70,7 +70,7 @@ start index.html
 
 Or simply drag and drop the `index.html` file into your browser.
 
-## 📱 Responsive Breakpoints
+📱 Responsive Breakpoints
 
 - **Desktop**: 960px and above
 - **Tablet**: 768px - 959px
