@@ -1,4 +1,4 @@
-# NEXT - Modern Tech Landing Page
+NEXT - Modern Tech Landing Page
 
 A sleek, responsive landing page showcasing next-generation technology solutions with modern gradients and smooth animations.
 
