@@ -117,7 +117,7 @@ This project is open source and available under the [MIT License](LICENSE).
 Octavio Gabriele
 - GitHub: [@yOGabCodDev](https://github.com/OG1983)
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
