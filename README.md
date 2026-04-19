@@ -77,14 +77,14 @@ Or simply drag and drop the `index.html` file into your browser.
 - **Mobile**: 480px - 767px
 - **Small Mobile**: Below 480px
 
-## ✨ Key Features Explained
+Key Features Explained
 
-### Navigation Bar
+Navigation Bar
 - Sticky navigation that stays at the top while scrolling
 - Transforms into a hamburger menu on mobile devices
 - Smooth color transitions on hover
 
-### Hero Section
+Hero Section
 - Eye-catching gradient text effects
 - Call-to-action button with hover animations
 - Responsive grid layout
@@ -99,7 +99,7 @@ Footer
 - Social media integration
 - Copyright information
 
-## 🔧 Customization
+Customization
 
 To customize the website for your needs:
 
@@ -108,11 +108,11 @@ To customize the website for your needs:
 3. Add Images: Replace `images/pic1.svg` with your own graphics
 4. **Update Links**: Change href values to point to your actual pages
 
-📄 License
+License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
+Author
 
 Octavio Gabriele
 - GitHub: [@yOGabCodDev](https://github.com/OG1983)
@@ -127,7 +127,7 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📸 Screenshots
+Screenshots
 
 ### Desktop View
 ![Desktop View](screenshots/desktop.png)
