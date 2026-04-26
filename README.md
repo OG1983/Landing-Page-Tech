@@ -10,7 +10,7 @@ A sleek, responsive landing page showcasing next-generation technology solutions
 - Modern UI/UX - Clean interface with gradient effects and smooth transitions
 - Mobile-First Navigation** - Hamburger menu for seamless mobile experience
 - Service Cards** - Showcase your offerings with interactive hover effects
-- Social Media Integration** - Ready-to-link social media icons
+- Social Media Integration* - Ready-to-link social media icons
 
 🛠️ Technologies Used
 
