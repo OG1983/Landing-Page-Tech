@@ -40,7 +40,7 @@ next-website/
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Prerequisites
 
 No dependencies required! Just a modern web browser.
 
