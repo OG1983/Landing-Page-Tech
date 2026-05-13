@@ -38,7 +38,7 @@ next-website/
 - Background: `#141414`
 - Text: `#ffffff`
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 Prerequisites
 
