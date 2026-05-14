@@ -129,7 +129,7 @@ Contributions, issues, and feature requests are welcome!
 
 Screenshots
 
-### Desktop View
+Desktop View
 ![Desktop View](screenshots/desktop.png)
 
 ### Mobile View
