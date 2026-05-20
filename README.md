@@ -74,7 +74,7 @@ Or simply drag and drop the `index.html` file into your browser.
 
 - **Desktop: 960px and above
 - **Tablet**: 768px - 959px
-- **Mobile**: 480px - 767px
+- Mobile: 480px - 767px
 - **Small Mobile**: Below 480px
 
 Key Features Explained
